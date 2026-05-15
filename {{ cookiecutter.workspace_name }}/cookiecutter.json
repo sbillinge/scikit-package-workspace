@@ -1,4 +1,4 @@
 {
-  "folder_name": "{{ cookiecutter.folder_name }}",
+  "workspace_name": "{{ cookiecutter.workspace_name }}",
   "subproject_name": "{{ cookiecutter.subproject_name }}"
 }
