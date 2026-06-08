@@ -16,7 +16,7 @@
 
 **Fixed:**
 
-* Remove jinja2 templating in the file names to make them compatible in the windows fileystem.
+* Remove jinja2 templating in the file names to make them compatible in the windows filesystem.
 
 **Security:**
 
